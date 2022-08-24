@@ -1,5 +1,43 @@
 # 🚀 DEV UPDATES
 
+## UPDATED VERSION 0.8.34 （Aug.23.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+
+
+## UPDATED VERSION 0.8.3**3** （Aug.20.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+#### Features
+
+* **Toolbar**: The toolbar will automatically retract when you move or click in other areas.
+* **Friendlist**: Adds the function of extending and collapsing the friend list; Displaying the group's membership number; Adjusts the contact pop-up box's width.
+* **Mouse**: The mouse shape will alter once it’s above the interativable assets.
+
+<figure><img src="https://lh3.googleusercontent.com/9cAWDxQ2Ta-vnO_AmgbGAJ1uGw1q3KypGjK8pRTOcTZnCqgwnOuAKYjYMyXhlZRb8vcg64Hfv3sdEr0yI0Qc5vNdTd5VG9P_o95kXCcDcsjwFTQ0lBPIka1VdY9jsWUuzU48iO6NROKcuWRllViggUk" alt=""><figcaption></figcaption></figure>
+
+* **Conference Hall:** Optimizing the conference room stage design and adding a speakers podium.
+
+<figure><img src="https://lh3.googleusercontent.com/f1AHfoIQws4WGoDvJHMEMTBn5GTjPk-e2JLSVT9drIjCwFdmFzw3NadLm_6U5uyrWTM0cu07wlGask_biXOUJ46aEKOfggaiT8Kv-Dk2-UjEJHUNl5xLCm-0dr0w0b5770wzOiFDTqaDxk84ivcJjys" alt=""><figcaption></figcaption></figure>
+
+## UPDATED VERSION 0.8.32 （Aug.14.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+#### Features
+
+* **LOGO**: Users can upload their logo while building standard and customized offices.
+* **Button**: "Build My Office” button design has changed.
+
+<figure><img src="https://lh6.googleusercontent.com/X7en7ahnY2Pk7nvp3vUVZhuckwSAS7rpZcsmGKdMQkiZfsDkCRlGd9FWsxQPgLtgiMh01V37dBbnQgOd3ctpMdBR6eS6FVRAJ0ycCMMCIrLfXeKAy16WiWAJ21bwo1wythQgWIcMjNu_LDmpOgo3h0U" alt=""><figcaption></figcaption></figure>
+
+* **Customized Office**: adding the function of drag-and-drop image positioning.
+* **Friend list:** While unfollowing,  the right side of the user name does not display “follow” by default, while mouse-on, the “Follow” button appears. While on the list of Nearby/Team, the “follow” button will be displayed. Mouse-on, “following users” will be displayed.
+
+## UPDATED VERSION 0.8.31 （Aug.10.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+#### Bug Fixes <a href="#bug-fixes" id="bug-fixes"></a>
+
+* **Displaying**: Number of people displaying problems in the hot zone.
+* **Displaying**: Message displaying problem.
+* **Meeting Room Date**: “Project Manager” adds the function of checking period while setting up a meeting room.
+
 ## UPDATED VERSION 0.8.30 （Aug.05.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
 #### Bug Fixes <a href="#bug-fixes" id="bug-fixes"></a>
