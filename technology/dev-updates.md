@@ -20,7 +20,7 @@
 
 #### Features
 
-* **Toolbar**:K The toolbar will automatically retract when you move or click in other areas.
+* **Toolbar**: The toolbar will automatically retract when you move or click in other areas.
 * **Friendlist**: Adds the function of extending and collapsing the friend list; Displaying the group's membership number; Adjusts the contact pop-up box's width.
 * **Mouse**: The mouse shape will alter once it’s above the interativable assets.
 
