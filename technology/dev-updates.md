@@ -61,25 +61,6 @@
 
 * **Meeting Mode**: Adding broadcast mode and brainstrom mode to the conference room. Attendees can interact and communicate with each other during the break.
 
-W3.work presents you with our Open-World concept art with the following practical features.
-
-#### FEATURES <a href="#features" id="features"></a>
-
-*   **Avatar**: When you enter W3.work for the first time, you will need to choose your avatar, the digital character that represents you in W3.work.
-
-    An avatar has certain specifications and format and comes with a default set of animations.
-* **A/V chatting**: When users are within a particular range, A/V chat will be automatically established without risks of data leakage due to the P2P connection technology.
-
-![](<../.gitbook/assets/ezgif.com-gif-maker (4).gif>)
-
-* **Streaming**: Project teams can reserve the Conference Room to set up a steady live feed with plenty of spectators. The organizer can perform a number of tasks using W3.work, such as flexible broadcasting control, temporary speaking, bans, and kick-outs.
-
-![](../.gitbook/assets/AMA.gif)
-
-* **Private Office**: Project teams can request to have a private office built where they can work, chat, collaborate on a whiteboard, hold meetings, relax with gaming devices, and use other interactive features.
-* **Customization**: W3.work office owner is now allowed to upload objects and make decorations in his workspace.
-* **IM**: Public, nearby, and private channels are all available for text conversation. Over the local channel's decentralized connection, you can send files in any format.
-
 ## UPDATED VERSION 0.8.29 （Aug.04.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
 #### Bug Fixes
@@ -122,7 +103,24 @@ W3.work presents you with our Open-World concept art with the following practica
 * **Customization**: W3.work office owner is now allowed to upload objects and fully customize his workspace.
 * **File**: Users can send files in any format over a decentralized connection in the nearby channel.
 
+W3.work presents you with our Open-World concept art with the following practical features.
 
+#### FEATURES <a href="#features" id="features"></a>
+
+*   **Avatar**: When you enter W3.work for the first time, you will need to choose your avatar, the digital character that represents you in W3.work.
+
+    An avatar has certain specifications and format and comes with a default set of animations.
+* **A/V chatting**: When users are within a particular range, A/V chat will be automatically established without risks of data leakage due to the P2P connection technology.
+
+![](<../.gitbook/assets/ezgif.com-gif-maker (4).gif>)
+
+* **Streaming**: Project teams can reserve the Conference Room to set up a steady live feed with plenty of spectators. The organizer can perform a number of tasks using W3.work, such as flexible broadcasting control, temporary speaking, bans, and kick-outs.
+
+![](../.gitbook/assets/AMA.gif)
+
+* **Private Office**: Project teams can request to have a private office built where they can work, chat, collaborate on a whiteboard, hold meetings, relax with gaming devices, and use other interactive features.
+* **Customization**: W3.work office owner is now allowed to upload objects and make decorations in his workspace.
+* **IM**: Public, nearby, and private channels are all available for text conversation. Over the local channel's decentralized connection, you can send files in any format.
 
 ## &#x20;<a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
