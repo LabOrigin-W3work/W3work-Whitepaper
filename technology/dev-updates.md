@@ -2,13 +2,25 @@
 
 ## UPDATED VERSION 0.8.34 （Aug.23.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
+**BREAKING CHANGES**
 
+* **Speech bubbles:** Optimizing speech bubbles
+* Turn on microphone&#x20;
+* Turn on microphone and speak&#x20;
+* Turn on microphone and stop talking (back to statusA)
+* Turn off microphone
+
+<figure><img src="https://lh5.googleusercontent.com/4HDXEtc473SKRJn3V4hKNLDJWrcmuxQJBGYL2TIZg0KHsTtb5zt6MEVESJK5qTNjWi4dt9WSP45cPSOZjMR5Gv8wxoBo7fY_M5GOmbihohO7jZW9afBUZlhJTyxsKEsbwNyle0-s5uHp16-uEd3IeOc" alt=""><figcaption></figcaption></figure>
+
+* **In-Game Credit System**
+
+<figure><img src="https://lh3.googleusercontent.com/r_C3FzewoB9klkYIwU0Czec4Ifcyp8h8r0lBo5F35AEQC5TEIEIu8GEFjtl9x6cTBSU00yoZcHsIoYptWXw82c0UeTa6DzMAjPXzg8Z2P_Kc8c4tPAc07sxz3t3ZZ0p6LxqjUhSB8q2bNGTI0VV0tcs" alt=""><figcaption></figcaption></figure>
 
 ## UPDATED VERSION 0.8.3**3** （Aug.20.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
 #### Features
 
-* **Toolbar**: The toolbar will automatically retract when you move or click in other areas.
+* **Toolbar**:K The toolbar will automatically retract when you move or click in other areas.
 * **Friendlist**: Adds the function of extending and collapsing the friend list; Displaying the group's membership number; Adjusts the contact pop-up box's width.
 * **Mouse**: The mouse shape will alter once it’s above the interativable assets.
 
