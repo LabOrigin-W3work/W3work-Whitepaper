@@ -1,5 +1,11 @@
 # 🚀 DEV UPDATES
 
+## UPDATED VERSION 0.8.35 （Aug.25.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+**BUG FIXES**
+
+****
+
 ## UPDATED VERSION 0.8.34 （Aug.23.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
 **BREAKING CHANGES**
