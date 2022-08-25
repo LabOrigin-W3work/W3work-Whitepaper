@@ -22,9 +22,13 @@
 * Added W3. Work logo animation&#x20;
 * Added a button in the AMA that the sponsor can set someone else as the sponsor
 
-BREAKING CHANGES
+**BREAKING CHANGES**
 
+* Add entry guide&#x20;
+* Add an NPC introduction video&#x20;
+* Add tourist mode
 
+![](../.gitbook/assets/游客模式2022824183703.gif)
 
 ## UPDATED VERSION 0.8.34 （Aug.23.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
