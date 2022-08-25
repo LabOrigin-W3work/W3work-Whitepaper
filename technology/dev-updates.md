@@ -28,7 +28,7 @@
 * Add an NPC introduction video&#x20;
 * Add tourist mode
 
-![](../.gitbook/assets/游客模式2022824183703.gif)
+<figure><img src="../.gitbook/assets/游客模式2022824183703.gif" alt=""><figcaption></figcaption></figure>
 
 ## UPDATED VERSION 0.8.34 （Aug.23.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
