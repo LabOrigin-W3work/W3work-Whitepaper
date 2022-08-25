@@ -1,5 +1,31 @@
 # 🚀 DEV UPDATES
 
+## UPDATED VERSION 0.8.35 （Aug.25.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+**BUG FIXES**
+
+* Fix the problem of the user’s name pop-up window disappearing&#x20;
+* Fix the first-time entry guide bug
+
+**FEATURES**
+
+* Added visible ripples when speaking is live
+
+<figure><img src="../.gitbook/assets/聊天波纹2022824183101.gif" alt=""><figcaption></figcaption></figure>
+
+* Added the first-time entry guide.
+* Menu question mark changed to restart entry guide.
+
+<figure><img src="../.gitbook/assets/新手引导20228241835282.gif" alt=""><figcaption></figcaption></figure>
+
+* Added pressing the M key to mute/unmute the microphone&#x20;
+* Added W3. Work logo animation&#x20;
+* Added a button in the AMA that the sponsor can set someone else as the sponsor
+
+BREAKING CHANGES
+
+
+
 ## UPDATED VERSION 0.8.34 （Aug.23.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
 **BREAKING CHANGES**
