@@ -1,5 +1,12 @@
 # 🚀 DEV UPDATES
 
+## UPDATED VERSION 0.8.36 （Sep.01.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+1. Add "TEAM" group chat messaging
+2. Add Direct Message among "team members" (Offline messages are supported)
+3. Add Direct Message among "Following members" (Offline messages are supported if both members are following each other)
+4. Add the function of displaying the number of unread messages from team and following members
+
 ## UPDATED VERSION 0.8.35 （Aug.25.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
 **BUG FIXES**
