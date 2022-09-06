@@ -1,5 +1,33 @@
 # 🚀 DEV UPDATES
 
+## UPDATED VERSION 0.8.37 （Sep.06.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+**BUG FIXES**
+
+1\. Resolved the issue that the other person's NFT avatar was improperly shown during the video chat.&#x20;
+
+2\. Fixed the dialog style issue when sharing the screen.&#x20;
+
+**FEATURES**
+
+1. The subsequent login will automatically use the wallet to log you in if you've already done so.&#x20;
+2. Unify UI design.&#x20;
+3. The mouse will be hidden when selecting a placeable image in a customizable office.
+
+<figure><img src="../.gitbook/assets/20220906-1113042022961117311.gif" alt=""><figcaption></figcaption></figure>
+
+#### **BREAKING CHANGES**
+
+1\. Customizable Office now provides features like picture uploading/deletion.&#x20;
+
+2\. The uploaded photos might be utilized to decorate the workplace.&#x20;
+
+3\. You can invite your friends to the AMA hall now.&#x20;
+
+4\. Added OkayBears and WeirdoGhostGang NFT collection, now you can use them as your character.
+
+<figure><img src="../.gitbook/assets/20220906-11075920229611201713.gif" alt=""><figcaption></figcaption></figure>
+
 ## UPDATED VERSION 0.8.36 （Sep.01.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
 1. Add "TEAM" group chat messaging
