@@ -1,5 +1,12 @@
 # 🚀 DEV UPDATES
 
+## UPDATED VERSION 0.8.38 （Sep.14.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
+
+#### FEATURES
+
+1. All buildings are inaccessible now, offices can only be accessed through an invitation link.
+2. Click on the "Personal Avatar" menu to choose from sending a message, flying nearby, and following.
+
 ## UPDATED VERSION 0.8.37 （Sep.06.2022) <a href="#updated-version-0825-jul262022" id="updated-version-0825-jul262022"></a>
 
 **BUG FIXES**
