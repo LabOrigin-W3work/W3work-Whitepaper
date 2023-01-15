@@ -37,13 +37,13 @@
 * [😎 Work For Fun](exploring-w3work/work-for-fun.md)
 * [🔥 Benefits](exploring-w3work/benefits.md)
 
-## Your W3work Experience
+## Your w3space Experience
 
-* [💬 Working Experiences in W3work](your-w3work-experience/working-experiences-in-w3work.md)
+* [💬 Productive Experiences in W3space](your-w3space-experience/productive-experiences-in-w3space.md)
 
 ## Tutorials
 
-* [🏘 Get Your Own W3work Office](tutorials/get-your-own-w3work-office.md)
+* [🏘 Get Your Own W3space Unit](tutorials/get-your-own-w3space-unit.md)
 * [🥰 Customize Your Character](tutorials/customize-your-character.md)
 * [🏗 Office Decoration](tutorials/office-decoration.md)
 * [🏢 Invite Your Colleagues](tutorials/invite-your-colleagues.md)
