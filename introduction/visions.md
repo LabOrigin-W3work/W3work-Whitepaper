@@ -6,7 +6,7 @@ We started W3space to build the first and only aggregation platform in the Metav
 
 We believe W3space will grow into a huge, massive-multiplayer decentralized ecosystem with a diverse range of business, social, and entertainment scenes.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 * W3space, we believe, will be a fully customizable space for communities, with total ownership and control.
 * W3space, we believe, will be a home where community culture created and strengthened by all members.
