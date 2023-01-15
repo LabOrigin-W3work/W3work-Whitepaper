@@ -2,7 +2,7 @@
 
 > **It all starts with a resort unit in W3work.**
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 There are two methods for gaining entry to a W3work resort office unit.&#x20;
 

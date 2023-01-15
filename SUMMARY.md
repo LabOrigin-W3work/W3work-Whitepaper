@@ -22,20 +22,20 @@
 
 ## Welcome!
 
-* [🖖 Welcome! W3work Residents!](welcome/welcome-w3work-residents.md)
+* [🖖 Welcome! W3space Residents!](welcome/welcome-w3space-residents.md)
 
-## Exploring W3work
+## Exploring W3space
 
-* [📚 W3work Overview](exploring-w3work/w3work-overview/README.md)
-  * [👾 UPDATES](exploring-w3work/w3work-overview/updates.md)
-* [🌏 W3work Resort Guide](exploring-w3work/w3work-resort-guide/README.md)
-  * [🗺 The Map](exploring-w3work/w3work-resort-guide/the-map.md)
-  * [🎱 Facilities](exploring-w3work/w3work-resort-guide/facilities.md)
-* [💻 Working Environment in W3work](exploring-w3work/working-environment-in-w3work.md)
-* [❤ Features of Working in W3work](exploring-w3work/features-of-working-in-w3work.md)
-* [🌐 Web3.0 Social Networks](exploring-w3work/web3.0-social-networks.md)
-* [😎 Work For Fun](exploring-w3work/work-for-fun.md)
-* [🔥 Benefits](exploring-w3work/benefits.md)
+* [📚 W3space Overview](exploring-w3space/w3space-overview/README.md)
+  * [👾 UPDATES](exploring-w3space/w3space-overview/updates.md)
+* [🌏 W3space Resort Guide](exploring-w3space/w3space-resort-guide/README.md)
+  * [🗺 The Map](exploring-w3space/w3space-resort-guide/the-map.md)
+  * [🎱 Facilities](exploring-w3space/w3space-resort-guide/facilities.md)
+* [💻 Working Environment in W3work](exploring-w3space/working-environment-in-w3work.md)
+* [❤ Features of Working in W3work](exploring-w3space/features-of-working-in-w3work.md)
+* [🌐 Web3.0 Social Networks](exploring-w3space/web3.0-social-networks.md)
+* [😎 Work For Fun](exploring-w3space/work-for-fun.md)
+* [🔥 Benefits](exploring-w3space/benefits.md)
 
 ## Your W3work Experience
 
