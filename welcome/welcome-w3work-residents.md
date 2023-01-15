@@ -22,4 +22,4 @@ and etc...
 
 W3space Residents will receive an exclusive business card with their company name and logo, address and contact information on it functioning as their DID (Digital Identification).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
