@@ -1,6 +1,6 @@
 # 🍭 Features
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 * The current Metaverse projects are all focused on the entertainment scenes, whereas **W3work is the first subverse in Metaverse to provide services for the Web3.0 business and social scenes**.&#x20;
 * Workspace usage scenario well matches the needs of the decentralized teams in Web3.0 business, including but not limited to, instancy, security and privacy. Web3.0 practitioners can work remotely from home without worrying about anonymity or security.

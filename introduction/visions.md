@@ -1,16 +1,16 @@
 # 🛫 Visions
 
-We started W3work to build the first and only aggregation platform in the Metaverse that specializes in business networking and socializing along with entertainment. Each of the 11,111 unique W3work resort office units is constantly evolving and developed by its owner.
+We started W3space to build the first and only aggregation platform in the Metaverse that specializes hyping the communities and socializing along with entertainment. Each of the 11,111 unique W3space resort office units is constantly evolving and developed by its owner.
 
-**Our vision is to make a difference in the present chaotic Metaverse by providing Web3.0 users a deeply immersive Metaverse workspace to learn, work, chill, connect, socialize, and collab.**&#x20;
+**Our vision is to make a difference in the present chaotic Metaverse by providing Web3.0 community members a deeply immersive Metaverse space to learn, work, chill, connect, interact, socialize, and collab.**&#x20;
 
-We believe W3work will grow into a huge, massive-multiplayer decentralized ecosystem with a diverse range of business, social, and entertainment scenes.
+We believe W3space will grow into a huge, massive-multiplayer decentralized ecosystem with a diverse range of business, social, and entertainment scenes.
 
-![](<../.gitbook/assets/image (8).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* W3work, we believe, will be your virtual office in the Metaverse, where you may work remotely, collab on projects, give presentations, and attend business conferences.&#x20;
-* W3work, we believe, will be your business social place in the Metaverse, where you may expand your social network, and meet fascinating people who share your interests and exchange cutting-edge ideas with you.&#x20;
-* W3work, we believe, will provide fertile ground for your business to grow. Talking to professionals with considerable insight, coming up with brilliant ideas, and meeting with venture capitalists are all part of the process.&#x20;
-* W3work, we believe, will accelerate the advancement of Co-Creation in Web3.0. Everyone can produce content in Web3.0, everyone can be productive and creative in W3work.
+* W3space, we believe, will be a fully customizable space for communities, with total ownership and control.
+* W3space, we believe, will be a home where community culture created and strengthened by all members.
+* W3space, we believe, will be an open-world Metaverse where communities connect & expand.
+* W3space, we believe, will accelerate the advancement of Co-Creation in Web3.0. Everyone can produce content in Web3.0, everyone can be productive and creative in W3space.
 
-**We envision a future in which every Web3.0 organization has a resort office in W3work, every Web3.0 creator finds a partner in W3work, and every Web3.0 social network is connected by W3work.**
+**We envision a future in which every Web3.0 organization has a resort unit in W3space, every Web3.0 creator finds a partner in W3space, and every Web3.0 social network is connected by W3space.**
