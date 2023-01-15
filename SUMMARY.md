@@ -11,8 +11,8 @@
 ## INTRODUCTION
 
 * [🔖 Brief Intro](introduction/brief-intro.md)
-* [🍕 What is W3space?](introduction/what-is-w3space.md)
-* [🙌 Why W3work?](introduction/why-w3work.md)
+* [🍕 What is W3space?](introduction/what-is-w3work.md)
+* [🙌 Why W3space?](introduction/why-w3space.md)
 * [👨🌾 Mission](introduction/mission.md)
 * [🛫 Visions](introduction/visions.md)
 
