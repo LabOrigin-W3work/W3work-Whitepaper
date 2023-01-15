@@ -24,6 +24,6 @@ Users can share their updates or express demands on the W3space broadcast and An
 
 ## :star: Fl3x Space
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Join the Fl3x space for all kinds of community events, and enjoy gameplays with other community members, in the meantime, interact and connect with them, and contribute to your beloved community altogether.

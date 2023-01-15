@@ -2,7 +2,7 @@
 
 > **It all starts with a resort unit in W3space.**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 There are two methods for gaining entry to a W3space resort office unit.&#x20;
 

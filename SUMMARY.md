@@ -39,21 +39,21 @@
 
 ## Your w3space Experience
 
-* [💬 Productive Experiences in W3space](your-w3space-experience/productive-experiences-in-w3space.md)
+* [💬 Productive Experiences in W3space](your-w3work-experience/working-experiences-in-w3work.md)
 
 ## Tutorials
 
-* [🏘 Get Your Own W3space Unit](tutorials/get-your-own-w3space-unit.md)
+* [🏘 Get Your Own W3space Unit](tutorials/get-your-own-w3work-office.md)
 * [🥰 Customize Your Character](tutorials/customize-your-character.md)
 * [🏗 Office Decoration](tutorials/office-decoration.md)
 * [🏢 Invite Your Colleagues](tutorials/invite-your-colleagues.md)
 * [📍 Interact with Others](tutorials/interact-with-others.md)
 
-## W3work NFT
+## W3space NFT
 
-* [✅ Description](w3work-nft/description.md)
-* [🗨 The Specs](w3work-nft/the-specs.md)
-* [🔠 NFT Rarity](w3work-nft/nft-rarity.md)
+* [✅ Description](w3space-nft/description.md)
+* [🗨 The Specs](w3space-nft/the-specs.md)
+* [🔠 NFT Rarity](w3space-nft/nft-rarity.md)
 
 ***
 
