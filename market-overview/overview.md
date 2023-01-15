@@ -2,7 +2,7 @@
 
 #### The current Web3.0 Market presents favorable conditions that offer W3work a unique opportunity to build virtual office space for Web3.0 individuals and organizations.&#x20;
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 * The total number of NFT projects launched on OpenSea as of the day this whitepaper was prepared was 7,878,713, with a total volume of $15,305,473,752. (OpenSea is an NFT Marketplace with over 55,000 unique users and 150,000 transactions per day on average).
 * The overall number of DEX users has reached 4,930,629 as of the day this whitepaper was written, with a volume of $68.6 billion traded in the previous 30 days.&#x20;
