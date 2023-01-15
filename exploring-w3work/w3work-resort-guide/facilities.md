@@ -1,6 +1,6 @@
 # 🎱 Facilities
 
-🛎 **Concierge**: Each district in W3work has a concierge in the center, where you may reach out to W3work staff for assistance and suggestions at any time.&#x20;
+🛎 **Concierge**: Each district in W3space has a concierge in the center, where you may reach out to W3space staff for assistance and suggestions at any time.&#x20;
 
 **🏚 Announcement & Advertisement Board**: Each district has an Announcement & Advertisement Board in front of the concierge where Metaverse news, property management announcements can be posted for free. A specified ✨W3W is required if you want your post to be pinned.&#x20;
 
@@ -12,7 +12,7 @@
 
 **🖼 NFT Gallery**: Check out the coolest art from the coolest Web3.0 artists!&#x20;
 
-**📚 Library**: Let us together build the history of Metaverse in W3work!&#x20;
+**📚 Library**: Let us together build the history of Metaverse in W3space!&#x20;
 
 **👩🏼‍⚖️ City Hall**: Metaverse conferences, Annual Parties, and other exclusive activities are taken places in City Hall, a specific Ticket NFT is required.
 
@@ -20,4 +20,4 @@
 
 ![](../../.gitbook/assets/14.png)
 
-W3work is more than just a place to work, it's also a place to call home in the Metaverse. **There is no place like W3work.**
+W3space is more than just a place to walk around, it's also a place to call home in the Metaverse. **There is no place like W3space.**
