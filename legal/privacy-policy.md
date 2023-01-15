@@ -1,8 +1,8 @@
 # 👮♂ Privacy Policy
 
-By using W3.WORK you agree to the privacy policy below, and the Code of Conduct
+By using W3space you agree to the privacy policy below, and the Code of Conduct
 
-## W3.WORK Privacy Policy
+## W3space Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.w3.work/ (the "Site").
 

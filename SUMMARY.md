@@ -51,9 +51,9 @@
 
 ## W3space NFT
 
-* [✅ Description](w3space-nft/description.md)
-* [🗨 The Specs](w3space-nft/the-specs.md)
-* [🔠 NFT Rarity](w3space-nft/nft-rarity.md)
+* [✅ Description](w3work-nft/description.md)
+* [🗨 The Specs](w3work-nft/the-specs.md)
+* [🔠 NFT Rarity](w3work-nft/nft-rarity.md)
 
 ***
 
@@ -68,7 +68,7 @@
 
 ## Roadmap
 
-* [🐾 W3work Roadmap](roadmap/w3work-roadmap.md)
+* [🐾 W3space Roadmap](roadmap/w3space-roadmap.md)
 
 ## Legal
 

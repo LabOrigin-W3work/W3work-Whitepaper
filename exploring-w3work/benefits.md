@@ -6,5 +6,5 @@ The creation of a decentralized blockchain-based Web3.0 Video Teleconferencing s
 
 For example, having events in W3space is way cooler than that in Web2.0!
 
-<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

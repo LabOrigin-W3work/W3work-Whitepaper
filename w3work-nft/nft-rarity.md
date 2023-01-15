@@ -7,7 +7,7 @@
 | Large       | 24,576 Blocks | 225 individuals | 9.9991%    | 1,111  |
 | Extra Large | 65,536 Blocks | 675 individuals | 0.999%     | 111    |
 
-W3work NFT Rarity will also be determined by other aspects as follows,
+W3space NFT Rarity will also be determined by other aspects as follows,
 
 * **Land Area**
 * **Location** (x,y)

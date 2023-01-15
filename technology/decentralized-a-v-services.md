@@ -6,7 +6,7 @@
 
 The privacy of A/V information is one of the most critical considerations when it comes to internal communication. To prevent messages from being stolen on the centralized server, the typical technique is to encrypt them. However, because most users have no way of knowing whether their data is securely encrypted or not, they are forced to believe and accept the service.
 
-W3work uses decentralized point-to-point communication while delivering A/V communication services inside the company, to completely address the rigorous needs of Web3.0 firms for data security. When the front-end sends a communication request, the contract will check if both sides are from the same firm and then automatically establish a point-to-point A/V connection using WebRTC, WebSocket, or SmartContract. As a result of this technical solution, data is only exchanged among internal company members, skipping the central server, and ensuring that no information is leaked.
+W3sp uses decentralized point-to-point communication while delivering A/V communication services inside the company, to completely address the rigorous needs of Web3.0 firms for data security. When the front-end sends a communication request, the contract will check if both sides are from the same firm and then automatically establish a point-to-point A/V connection using WebRTC, WebSocket, or SmartContract. As a result of this technical solution, data is only exchanged among internal company members, skipping the central server, and ensuring that no information is leaked.
 
 ![Each point can communicate in a self-organizing network using RTCPeerConnection; it can also form a star communication network with one person in the center.](https://lh4.googleusercontent.com/xBtLqWGa4igShttgfvkrdJObpjGirirKsxKANYo1c31S\_YFqSEbXGA\_XICstEEmUWVZMeq1WPmmzEJGLWB2LyKBGjYKn3KnNwC5lDFP4GDy0tAjBsQ57u6tFAlM4H0CTm2I-I1m0)
 
@@ -18,9 +18,9 @@ W3work uses decentralized point-to-point communication while delivering A/V comm
 
 When users perform public activities like attending conferences, AMAs, hackathons, socializing in open areas, and so on, the most critical needs are stability and high-quality communication connections, while the necessity for decentralization and privacy is decreased. We choose to deploy streaming media services based on AWS Media Services to better address the A/V communication demands of users during public activities. AWS Media Services, which is built on the most secure worldwide infrastructure, securely ingests and transmits video streams over the AWS global network with a few milliseconds of latency.
 
-When hosting a large event in W3work with more than 200 attendees, no Fiat currency payment is required to cover the costs of servers, bandwidth, transcoding, or other services; instead, a set amount of ✨W3W or a set amount of future W3work Token is required, making W3work A/V streaming services are a much more cost-effective option than traditional ones.
+When hosting a large event in W3space with more than 200 attendees, no Fiat currency payment is required to cover the costs of servers, bandwidth, transcoding, or other services; instead, a set amount of ✨W3W or a set amount of future W3space Token is required, making W3space A/V streaming services are a much more cost-effective option than traditional ones.
 
-W3work has implemented the NFT-based-Ticket. The host can issue NFTs as tickets to a large and exclusive activity, and only NFT-based-Ticket holders have access to the event and can correspond to A/V live streams.
+W3space has implemented the NFT-based-Ticket. The host can issue NFTs as tickets to a large and exclusive activity, and only NFT-based-Ticket holders have access to the event and can correspond to A/V live streams.
 
 ![](<../.gitbook/assets/33 (1).png>)
 

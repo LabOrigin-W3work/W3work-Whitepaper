@@ -2,22 +2,22 @@
 
 ## Land Module&#x20;
 
-Land Module is a smart contract that generates and verifies W3work NFT. Land Module is used to determine the information of the NFT holder.&#x20;
+Land Module is a smart contract that generates and verifies W3space NFT. Land Module is used to determine the information of the NFT holder.&#x20;
 
 ## Work Control Module
 
 Work Control Module is the main logic smart contract that allows you to accomplish the following operations:&#x20;
 
-* Carry out W3work office resort rentals for owners and lessees.&#x20;
+* Carry out W3space resort unit rentals for owners and lessees.&#x20;
 * Owners and tenants can make changes to their company information, employee information, and company-related settings on their own.&#x20;
 * Authenticate new users.&#x20;
-* Based on W3work office resort renovation and decoration, auto-generate dynamic NFT.
+* Based on W3space resort unit renovation and decoration, auto-generate dynamic NFT.
 
 ## On-Chain Social Networks Module&#x20;
 
 On-Chain Social Networks Module is the smart contract to record and obtain the social networks among users.
 
-W3work is designed to provide a bridge between Web3.0 practitioners and users, inspired by the concept of Six Degrees of Separation and the revolutionary practicality of LinkedIn, which is a Web2.0 Career Development Platform.
+W3space is designed to provide a bridge between Web3.0 practitioners and users, inspired by the concept of Six Degrees of Separation and the revolutionary practicality of LinkedIn, which is a Web2.0 Career Development Platform.
 
 ![](<../.gitbook/assets/image (16).png>)
 
@@ -29,7 +29,7 @@ The Web3.0 world is much smaller than the real world, which means that everyone 
 
 ### Privacy&#x20;
 
-A native Web3.0 professional might have different identities. W3work On-Chain Social Networks Module makes it possible for identities to be partially visible via different levels of degree connections.
+A native Web3.0 professional might have different identities. W3space On-Chain Social Networks Module makes it possible for identities to be partially visible via different levels of degree connections.
 
 ## WorkID Module&#x20;
 
