@@ -2,22 +2,18 @@
 
 * [⛩ Welcome to W3space](README.md)
 
-## INTRODUCTION
-
-* [🔖 Brief Intro](introduction/brief-intro.md)
-* [🍕 What is W3space?](introduction/what-is-w3work.md)
-
 ## Exploring W3space
 
 * [📚 W3space Overview](exploring-w3space/w3space-overview.md)
-* [🌏 W3space Resort Guide](exploring-w3work/w3work-resort-guide/README.md)
-  * [🎱 Facilities](exploring-w3work/w3work-resort-guide/facilities.md)
-* [🔥 Benefits](exploring-w3work/benefits.md)
+* [🤖 Page 1](exploring-w3space/page-1.md)
 
 ***
 
 * [🥫 Decentralized A/V Services](decentralized-a-v-services.md)
 * [📱 DIM](dim.md)
+* [🔥 Benefits](benefits.md)
+* [🌏 W3space Resort Guide](w3space-resort-guide/README.md)
+  * [🎱 Facilities](w3space-resort-guide/facilities.md)
 
 ## W3space NFT
 
@@ -34,3 +30,4 @@
 * [🌊 Disclaimer](legal/disclaimer.md)
 * [👮♂ Privacy Policy](legal/privacy-policy.md)
 * [🔖 Terms of Use](legal/terms-of-use.md)
+* [👥 Team](legal/team.md)

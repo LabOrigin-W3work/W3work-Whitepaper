@@ -1,5 +1,5 @@
 # 📚 W3space Overview
 
-W3space, as its core, is the Cross-Platform Gamified Platform for Community, with total ownership and control over a fully customizable space for communities, creating and strengthening community cultures altogether, connecting & expanding your community among W3space open-world Metaverse. &#x20;
+W3Space is a Web3.0 hyperspace where you can interact with your community members 24/7 with your AI Avatar, or engage in video and voice chats in a fully customizable virtual space accommodating up to 7500 participants. It's also an open Metaverse, allowing you to connect and expand with all players and communities. Let's step into W3Space and embark on a new journey in the digital world.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
