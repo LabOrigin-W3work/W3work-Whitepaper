@@ -1,6 +1,6 @@
 # 🔠 NFT Rarity
 
-| Office Type | Dimension     | Capacity        | Percentage | Amount |
+| Land Type   | Dimension     | Capacity        | Percentage | Amount |
 | ----------- | ------------- | --------------- | ---------- | ------ |
 | Small       | 1,024 Blocks  | 25 individuals  | 69%        | 7,667  |
 | Medium      | 8,192 Blocks  | 75 individuals  | 19.9982%   | 2,222  |

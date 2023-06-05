@@ -18,6 +18,4 @@
 
 **🍾 Rooftop**: Birthday parties, nightclubs, weddings… Feel free to use your imagination. Cafés, juice bars, bars… You know what this means.
 
-![](../../.gitbook/assets/14.png)
-
 W3space is more than just a place to walk around, it's also a place to call home in the Metaverse. **There is no place like W3space.**
