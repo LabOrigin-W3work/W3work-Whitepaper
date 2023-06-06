@@ -14,14 +14,10 @@
 
 ***
 
-* [🌏 Resort Guide](resort-guide/README.md)
-  * [🔠 Rarity](resort-guide/rarity.md)
-  * [🎱 Facilities](resort-guide/facilities.md)
-  * [🎄 Design Concepts](resort-guide/design-concepts.md)
-* [🥫 A/V Services](a-v-services.md)
+* [🥫 A/V Support](a-v-support.md)
 * [📱 DIM](dim.md)
 * [🐾 Roadmap](roadmap.md)
-* [🔥 Why is W3Space?](why-is-w3space.md)
+* [🔥 Why W3Space?](why-w3space.md)
 
 ## Legal
 

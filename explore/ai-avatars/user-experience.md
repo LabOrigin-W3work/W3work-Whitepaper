@@ -2,6 +2,8 @@
 
 W3Space is designed to offer a unique and engaging user experience for different types of users. Let's delve into this in more detail.
 
+<figure><img src="../../.gitbook/assets/Event _ Party.JPG" alt=""><figcaption></figcaption></figure>
+
 **As a Player:**
 
 W3Space offers players a wide range of interactive features to ensure an immersive and engaging experience.

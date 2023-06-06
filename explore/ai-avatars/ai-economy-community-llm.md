@@ -2,6 +2,8 @@
 
 The AI Economy Community LLM (Language Learning Model) is a groundbreaking element of W3space. It's an economic model that's built around the concept of AI avatars and their interactions within the community.
 
+<figure><img src="../../.gitbook/assets/Fundraising.JPG" alt=""><figcaption></figcaption></figure>
+
 **The Concept**
 
 The AI Economy Community LLM borrows from the paradigm of "play to earn," which is a hallmark of the Game-Fi sector. In this paradigm, players are rewarded for their participation and accomplishments in a game. W3space takes this concept and innovatively transforms it into a "train to earn" model.
