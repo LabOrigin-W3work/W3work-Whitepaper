@@ -1,35 +1,27 @@
 # Table of contents
 
+## WELCOME
+
 * [⛩ Welcome to W3space](README.md)
+* [📚 W3space Overview](welcome/w3space-overview.md)
 
-## AI Avatars
+## Explore
 
-* [🤖 Empowering W3space with AI Avatars](ai-avatars/empowering-w3space-with-ai-avatars.md)
-* [🪙 AI Economy Community LLM](ai-avatars/ai-economy-community-llm.md)
-* [⭕ Problems with Web2.0 LLM](ai-avatars/problems-with-web2.0-llm.md)
-* [👤 User Experience](ai-avatars/user-experience.md)
-
-## Exploring W3space
-
-* [📚 W3space Overview](exploring-w3space/w3space-overview.md)
+* [🤖 AI Avatars](explore/ai-avatars/README.md)
+  * [🪙 AI Economy Community LLM](explore/ai-avatars/ai-economy-community-llm.md)
+  * [⭕ Problems with Web2.0 LLM](explore/ai-avatars/problems-with-web2.0-llm.md)
+  * [👤 User Experience](explore/ai-avatars/user-experience.md)
 
 ***
 
-* [🌏 W3space Resort Guide](w3space-resort-guide/README.md)
-  * [🎱 Facilities](w3space-resort-guide/facilities.md)
-* [🥫 Decentralized A/V Services](decentralized-a-v-services.md)
+* [🌏 Resort Guide](resort-guide/README.md)
+  * [🔠 Rarity](resort-guide/rarity.md)
+  * [🎱 Facilities](resort-guide/facilities.md)
+  * [🎄 Design Concepts](resort-guide/design-concepts.md)
+* [🥫 A/V Services](a-v-services.md)
 * [📱 DIM](dim.md)
-* [🔥 Benefits](benefits.md)
-
-## W3space NFT
-
-* [✅ Description](w3work-nft/description.md)
-* [🔠 NFT Rarity](w3work-nft/nft-rarity.md)
-* [🎄 Design Concepts](w3space-nft/design-concepts.md)
-
-## Roadmap
-
-* [🐾 W3space Roadmap](roadmap/w3space-roadmap.md)
+* [🐾 Roadmap](roadmap.md)
+* [🔥 Why is W3Space?](why-is-w3space.md)
 
 ## Legal
 
